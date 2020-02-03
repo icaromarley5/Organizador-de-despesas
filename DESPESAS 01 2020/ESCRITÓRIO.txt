@@ -1,0 +1,24 @@
+ESCRITÓRIO: DESPESAS EM 01/2020
+    
+02  VIVO CELULAR           R$ 69,30
+03  VALES                  R$ 80,00
+06  CONDOMÍNIO ESCRITÓRIO  R$ 246,55
+07  FGTS                   R$ 119,76
+10  CELULAR ESCRITÓRIO     R$ 35,00
+13  CONTADORA              R$ 250,00
+15  IPTU ESCRITÓRIO        R$ 488,17
+15  COOPERATIVA            R$ 532,50
+15  INFONET                R$ 12,00
+15  VALES                  R$ 96,00
+16  COMPRA MARCA TEXTO     R$ 11,50
+17  AAACASE                R$ 20,00
+17  COMPRA PILHAS          R$ 14,50
+17  ESTACIONAMENTO         R$ 20,00
+20  GPS                    R$ 334,33
+27  ENERGIA ESCRITÓRIO     R$ 48,65
+28  VIVO INTERNET          R$ 229,90
+30  SERDIJUL               R$ 40,00
+30  SALÁRIO                R$ 1306,37
+30  VALES                  R$ 80,00
+    
+Total: R$ 4034,53

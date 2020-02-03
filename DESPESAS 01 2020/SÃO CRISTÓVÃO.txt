@@ -1,0 +1,6 @@
+SÃO CRISTÓVÃO: DESPESAS EM 01/2020
+    
+02  OI SÃO CRISTÓVÃO       R$ 80,99
+27  ENERGIA SÃO CRISTÓVÃO  R$ 69,89
+    
+Total: R$ 150,88
